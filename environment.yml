@@ -1,0 +1,8 @@
+# environment.yaml
+
+name: application
+channels:
+  - conda-forge
+dependencies:
+  - python==3.9
+
